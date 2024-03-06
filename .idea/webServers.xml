@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="9e4224e3-f3e7-493f-8fc8-1e78d08c8a45" name="server" url="http://pavlov.45-86-181-97.ip.dev.2204535.ru">
+        <fileTransfer rootFolder="/home/pavlov" accessType="SFTP" host="pavlov.45-86-181-97.ip.dev.2204535.ru" port="22" sshConfigId="f7d3e53c-8313-40ed-a846-a9cbcc830175" sshConfig="pavlov@pavlov.45-86-181-97.ip.dev.2204535.ru:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
